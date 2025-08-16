@@ -8,7 +8,6 @@ import java.awt.*;
 import java.math.MathContext;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.function.Predicate;
 import java.util.function.UnaryOperator;
 
 public class Main extends JPanel {
